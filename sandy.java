@@ -1,5 +1,5 @@
-class sandy
-  public static void main(string[]args)
+class sandy{
+  public Static void main(String[]args)
   {
     System.out.println("hello");
      System.out.println("welcome");
@@ -7,3 +7,4 @@ class sandy
      System.out.println("devops");
      System.out.println("class");
   }
+}
